@@ -9,9 +9,9 @@ inline int f(const int &x){
 }
 int n,ans;
 signed main(){
-    scanf("%d",&n);
+    scanf("%lld",&n);
     for(int i=1,x,m;i<=n;++i){
-        scanf("%d%d",&x,&m);
+        scanf("%lld%lld",&x,&m);
         ans^=f(x-1)^f(x+m-1);
     }
     if(ans) puts("tolik");
