@@ -2,4 +2,9 @@
 
 ---
 
-## 目前有**luogu,hdu,poj**
+## 目前有**luogu,hdu,poj,cf**
+
+---
+
+- 2019.5.30 add `luogu,hdu,poj`
+- 2019.6.1 add `cf`
