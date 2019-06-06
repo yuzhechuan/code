@@ -2,10 +2,10 @@
 
 ---
 
-## 目前有**luogu,hdu,poj,cf,uva**
+## 目前有**luogu,hdu,poj,cf,UVa**
 
 ---
 
 - 2019.5.30 add `luogu,hdu,poj`
 - 2019.6.1 add `cf`
-- 2019.6.6 add `uva`
+- 2019.6.6 add `UVa`
