@@ -2,7 +2,7 @@
 typedef long long ll;
 using namespace std;
 int m,rm;
-ll ans,n,a[16];
+ll ans,n,a[17];
 inline ll gcd(const ll &x,const ll &y){
     if(!y) return x;
     return gcd(y,x%y);
