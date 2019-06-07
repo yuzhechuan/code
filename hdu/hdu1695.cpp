@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-bool v[100005];
+bool v[100004];
 long long ans;
 int t,qn[100005],q[100005][30],b,d,k;
 inline int f(int x,int num){
