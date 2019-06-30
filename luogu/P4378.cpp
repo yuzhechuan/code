@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-const int N=100005;
+const int N=100004;
 int n,a[N],b[N],c[N],ans;
 inline int fyc(const int &x){return x&-x;}
 inline void up(int i){while(i<=n) c[i]++,i+=fyc(i);}
