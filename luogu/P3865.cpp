@@ -22,7 +22,7 @@ int main(){
     while(m--){
         int x,y;
         read(x),read(y);
-        int k=(int)log2(1.0*(y-x+1));
+        int k=log2(1.0*(y-x+1));
         printf("%d\n",max(f[x][k],f[y-(1<<k)+1][k]));
     }
 }
